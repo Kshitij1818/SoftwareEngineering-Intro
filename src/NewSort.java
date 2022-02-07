@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BubbleSort {
+public class NewSort {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
@@ -20,6 +20,7 @@ public class BubbleSort {
 	                }
 	     }
 	            }
+	     System.out.println("The Sorted order is");
 	     for(int i=0;i<n;i++) {
 			 System.out.println(arr[i]);
 		 }
