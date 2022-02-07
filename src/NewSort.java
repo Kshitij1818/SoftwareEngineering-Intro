@@ -20,7 +20,7 @@ public class NewSort {
 	                }
 	     }
 	            }
-	     System.out.println("The Sorted order is");
+	     System.out.println("The Sorted order is ");
 	     for(int i=0;i<n;i++) {
 			 System.out.println(arr[i]);
 		 }
